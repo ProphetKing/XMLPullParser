@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kinggauss/Downloads/14WorkSpace/01Android/XMLPullParser/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c0ac89f4bb18bf9943cfcb6ffea360d8554019d">
+        <dex dex="/Users/kinggauss/Downloads/14WorkSpace/01Android/XMLPullParser/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_39078964d2dfb442eefa618e0d5823a5b5ca14aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kinggauss/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/kinggauss/Downloads/14WorkSpace/01Android/XMLPullParser/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_36337c6261da949f0c26c9e10dc0409ecd477f1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kinggauss/Downloads/14WorkSpace/01Android/XMLPullParser/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e950ad063d2bfaa23396d5fcfa5f2a524cfbfb58">
+        <dex dex="/Users/kinggauss/Downloads/14WorkSpace/01Android/XMLPullParser/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_95c3f3f485fa7d23d6bd4fc2e0fad29e9fb72722/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kinggauss/Downloads/14WorkSpace/01Android/XMLPullParser/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/kinggauss/Downloads/14WorkSpace/01Android/XMLPullParser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_8eaa40eb199c317e8f889fabb60fb722126481ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kinggauss/Downloads/14WorkSpace/01Android/XMLPullParser/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/kinggauss/Downloads/14WorkSpace/01Android/XMLPullParser/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_410e6b40edd5d235d438168278f0e7790321caa6/classes.dex" />
+    </item>
+
+</items>
